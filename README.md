@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JoseRobson2301
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, meu nome é Jose-Robson
+- 👀 Eu estou muito interessado na área da programação
+- 🌱 Estou me aprimorando a cada dia
+- 💞️ tentando seu o melhor dos melhores
+- 📫 A maior criação de Deus criou foi Você ^^
 
 <!---
 JoseRobson2301/JoseRobson2301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
